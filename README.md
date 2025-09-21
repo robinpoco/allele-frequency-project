@@ -3,9 +3,7 @@ This repository contains documentation for my MSc thesis project looking into ra
 
 All non-participant identifiable result are posted in: [`results/results_README.md`](results/results_README.md)
 
-Scripts for machine learning model combining rare variant + common variants: 
-
-CLI scripts to perform MAGMA and PRScs on the UKB-RAP: 
+Scripts for machine learning model combining rare variant + common variants, CLI scripts to perform MAGMA burden scoring and PRScs on the UKB-RAP: [`scripts/scripts_README.md`](scripts/scripts_README.md)
 
 Further documentation on UKB-RAP and work by CTG can be found [`here`](https://github.com/vu-ctg/ukb_rap_workflows/tree/master)
 
