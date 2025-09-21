@@ -6,4 +6,4 @@ Scripts for machine learning model combining rare variant + common variants:
 CLI scripts to perform MAGMA and PRScs on the UKB-RAP: 
 Further documentation on UKB-RAP and work by CTG can be found [`here`](https://github.com/vu-ctg/ukb_rap_workflows/tree/master)
 
-Full thesis is availble on request via [`LinkedIn`(](https://nl.linkedin.com/in/robin-pocornie)
+Full thesis is availble on request via [`LinkedIn`](https://nl.linkedin.com/in/robin-pocornie)
