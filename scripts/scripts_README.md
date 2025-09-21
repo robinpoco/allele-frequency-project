@@ -4,8 +4,7 @@ In this folder you can find all the scripts needed to run PRScs, MAGMA and burde
 For PRScs, MAGMA and burden scoring, run scripts in this order
 1. run-PRScs.md
 2. run-magma.md
-3. extract-genes.md
-4. run-scores.md
+3. extract-burdenscoring.md
 
 For machine learning, run scripts in this order
 1. standardisePRS.py
