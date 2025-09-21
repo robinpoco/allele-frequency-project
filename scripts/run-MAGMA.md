@@ -1,3 +1,5 @@
+# Workflow for running MAGMA on rare variants using UK Biobank data
+
 This requires individual-level genotype data and must be carried out on the UKB-RAP. Use `dx` to log in to your account, navigate to your project, and run MAGMA step using the example command below. This assumes you have already created QC'd, plink-formatted, hard-called genotype files.
 This is to run MAGMA ONLY for rare variants with a minor allele frequency < 5%
 
