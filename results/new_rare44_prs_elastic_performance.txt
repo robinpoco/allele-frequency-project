@@ -1,0 +1,14 @@
+new_rare44_prs_elastic TRAINING PERFORMANCE
+Samples: 102060
+Cases: 15058
+Controls: 87002
+AUC: 0.531
+
+new_rare44_prs_elastic TEST PERFORMANCE
+Samples: 25515
+Cases: 3764
+Controls: 21751
+AUC: 0.529
+
+Overfit gap: 0.002
+Features selected: 45 / 45

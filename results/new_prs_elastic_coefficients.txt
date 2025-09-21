@@ -1,0 +1,2 @@
+gene,coefficient
+PRS_scaled,0.09152683841697529

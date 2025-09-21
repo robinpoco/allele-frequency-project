@@ -1,0 +1,19 @@
+ RESULTS 
+Model: new_rare44_prs_elastic
+Test file: new_matrix_rare44_prs_test.csv
+Test samples: 31894
+Test cases: 4705
+Test controls: 27189
+
+PERFORMANCE METRICS:
+AUC: 0.533
+Sensitivity: 0.529
+Specificity: 0.523
+PPV: 0.161
+NPV: 0.865
+
+CONFUSION MATRIX:
+True Negatives: 14231
+False Positives: 12958
+False Negatives: 2214
+True Positives: 2491

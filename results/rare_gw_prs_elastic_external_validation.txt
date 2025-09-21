@@ -1,0 +1,19 @@
+ RESULTS 
+Model: rare_gw_prs_elastic
+Test file: new_matrix_rare_gw_prs_test.csv
+Test samples: 31894
+Test cases: 4705
+Test controls: 27189
+
+PERFORMANCE METRICS:
+AUC: 0.537
+Sensitivity: 0.529
+Specificity: 0.519
+PPV: 0.160
+NPV: 0.864
+
+CONFUSION MATRIX:
+True Negatives: 14111
+False Positives: 13078
+False Negatives: 2217
+True Positives: 2488
