@@ -1,0 +1,3 @@
+gene,coefficient
+PRS_scaled,0.09140165080410058
+rare_genome_wide,0.006715890315988609

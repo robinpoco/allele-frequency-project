@@ -1,0 +1,19 @@
+ RESULTS 
+Model: new_rare440_elastic
+Test file: new_matrix_rare440_test.csv
+Test samples: 31894
+Test cases: 4705
+Test controls: 27189
+
+PERFORMANCE METRICS:
+AUC: 0.498
+Sensitivity: 0.466
+Specificity: 0.527
+PPV: 0.146
+NPV: 0.851
+
+CONFUSION MATRIX:
+True Negatives: 14332
+False Positives: 12857
+False Negatives: 2512
+True Positives: 2193

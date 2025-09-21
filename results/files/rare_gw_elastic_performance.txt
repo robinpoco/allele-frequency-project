@@ -1,0 +1,14 @@
+rare_gw_elastic TRAINING PERFORMANCE
+Samples: 102060
+Cases: 15058
+Controls: 87002
+AUC: 0.502
+
+rare_gw_elastic TEST PERFORMANCE
+Samples: 25515
+Cases: 3764
+Controls: 21751
+AUC: 0.500
+
+Overfit gap: 0.002
+Features selected: 1 / 1

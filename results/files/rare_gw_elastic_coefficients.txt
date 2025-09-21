@@ -1,0 +1,2 @@
+gene,coefficient
+rare_genome_wide,0.008444722574861587
