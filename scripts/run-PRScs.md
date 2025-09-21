@@ -87,7 +87,7 @@ After the SNP weight file is created, upload this to your RAP project. The secon
 # ----------------------------------------------------
 
 projectid= #put in user's projectID
-path= #put in the path in user's project to store output files
+path= #put in the path in user's project to obtain files
 
 for i in {1..22}; do
 dx run swiss-army-knife \
