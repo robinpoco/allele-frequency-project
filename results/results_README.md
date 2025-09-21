@@ -11,5 +11,5 @@ For the machine learning model, we performed elastic net regression on on seven 
 5.	44 RVGs + PRS
 6.	RVGW only
 7.	RVGW + PRS
-
+<b>*_external_validation.txt files contain the final model perfromance</b> 
 
