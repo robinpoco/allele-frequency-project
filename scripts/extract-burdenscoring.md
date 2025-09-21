@@ -1,4 +1,4 @@
-# SNP extraction and burden scoring
+# SNP extraction and burden scoring using UK Biobank data
 
 This requires individual-level genotype data and must be carried out on the UKB-RAP. Use `dx` to log in to your account, navigate to your project, and run MAGMA step using the example command below. 
 This is to extract SNPs for your chosen genes for all individuals burden scores need to be calculated for.
