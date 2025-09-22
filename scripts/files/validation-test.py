@@ -1,4 +1,5 @@
-# This script van be run on your {model}_test.csv files
+# This script can be run on your {model}_test.csv files - or any file that includes you held-out validation set
+# You also need: scalers and trained model (.pkl files)
 
 import pandas as pd
 import pickle
