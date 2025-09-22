@@ -1,4 +1,5 @@
 # This script creates a matrix from PLINK scored burden score files (440 genes x 150k participants)
+# This file does not include any splitting of individuals - use train-test.py for that
 
 import pandas as pd
 import glob
@@ -18,6 +19,5 @@ for file in glob.glob('new_score_rare_gene_*_chr*.sscore'):
     # Merges everything
     df = df.merge(df_temp, on='IID', how='left')
 
-# Saves to csv - !!! important !!! this matrix was used as main matrix to add/substract features to
-# calculate genome-wide burden scores, split into train,test,val
-df.to_csv('new_rare_variants_burden_matrix.csv', index=False) 
+# Saves to csv - !!! important !!! this matrix was used as main matrix to add/substract features to calculate genome-wide burden scores, split into train,test,val
+df.to_csv('burden_matrix.csv', index=False) 
