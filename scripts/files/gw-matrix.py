@@ -1,4 +1,5 @@
 # This script creates genome-wide scores for RVGs and creates new matrices (RVGW only and RVGW + PRS)
+# using the unsplit matrix of 440 RVG as input file.
 
 import pandas as pd
 import numpy as np
